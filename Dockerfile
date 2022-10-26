@@ -1,4 +1,4 @@
-FROM ubuntu:latest
+FROM ubuntu:20.04
 
 # よく使うコマンドをインストール
 RUN apt-get update \
